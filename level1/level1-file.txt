@@ -1,0 +1,3 @@
+In this example, we'll remove the folder D:\Temp\Test Folder1 recursively. In first example, PowerShell confirms if directory is not empty. In this case, it will simply delete the item.
+
+Type the following command in PowerShell ISE Console
