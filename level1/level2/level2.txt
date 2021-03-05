@@ -1,1 +1,0 @@
-To update with the latest version where it has more Cmdlets we have to download Windows Management Framework 5.0 from the following link − https://www.microsoft.com/en-us/download/details.aspx?id=50395 and install it.
